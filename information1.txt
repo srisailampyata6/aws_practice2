@@ -1,4 +1,6 @@
 public class class{
    int a;
+   String name;
+   String age;
 
 }
