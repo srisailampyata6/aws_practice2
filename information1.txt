@@ -2,5 +2,6 @@ public class class{
    int a;
    String vinay;
    String manikanta;
-
+   String name;
+   String fee;
 }
