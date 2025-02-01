@@ -4,4 +4,7 @@ public class class{
    String svinay;
    String manikanta;
 }
+java
+java1
+java2
 
