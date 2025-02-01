@@ -6,4 +6,8 @@ this
 is not
 conflict
 hello
+<<<<<<< Updated upstream
 i nee
+=======
+how are you
+>>>>>>> Stashed changes
