@@ -1,6 +1,6 @@
 public class class{
-   int a;
-   String vinay;
+   int sa;
+   String svinay;
    String manikanta;
    String name;
    String fee;
