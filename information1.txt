@@ -1,4 +1,6 @@
 public class class{
    int a;
+   String vinay;
+   String manikanta;
 
 }
