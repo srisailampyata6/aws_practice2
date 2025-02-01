@@ -1,6 +1,6 @@
 public class class{
    int sa;
+   String exchnage;
    String svinay;
    String manikanta;
-   String name;
 }
