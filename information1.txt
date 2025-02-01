@@ -3,5 +3,4 @@ public class class{
    String vinay;
    String manikanta;
    String name;
-   String fee;
 }
